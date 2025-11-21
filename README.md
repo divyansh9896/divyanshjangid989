@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divyansh Jangid</h1>
 <h3 align="center">B.E. Computer Science Engineering</h3>
 
-<p align="center">
-  <img src="https://github.com/divyansh9896/divyanshjangid989/blob/fd7756f1b0a3056470d2e6541600951074dcd0c6/aioi.gif?raw=true" width="400" />
-</p>
+
+  <img src="https://github.com/divyansh9896/divyanshjangid989/blob/fd7756f1b0a3056470d2e6541600951074dcd0c6/aioi.gif?raw=true" width="400" align="right" />
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME)
 
