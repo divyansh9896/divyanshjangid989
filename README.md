@@ -2,7 +2,7 @@
 <h3 align="center">B.E. Computer Science Engineering</h3>
 
 <p align="center">
-  <img src="" width="400"/>
+  <img src="https://github.com/divyansh9896/divyanshjangid989/blob/fd7756f1b0a3056470d2e6541600951074dcd0c6/aioi.gif?raw=true" width="400" />
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME)
